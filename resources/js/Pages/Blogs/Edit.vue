@@ -60,7 +60,7 @@ const submit = () => {
                             <div class="my-6">
                                 <label
                                     for="slug"
-                                    class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
+                                    class="block mb-2 text-sm font-medium text-gray-900"
                                     >Content</label
                                 >
                                 <textarea
